@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    {% block title %}
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% else %}
+    <title>Hemish's website</title>
+    {% endif %}
+    {% endblock %}
+    <meta name="description" content="Hemish's Personal Website">
+    <meta name="author" content="Hemish">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="icon" type="image/png" href="/favicon.ico">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header>
+      <div class="hackergotchi">
+	    <img src='/hackergotchi.png' width=104 height=120 alt='My face'>
+      <br> <div class="caption"> What's this? - <a href="https://en.everybodywiki.com/Hackergotchi" target="_blank">Hackergotchi</a></div>
+      </div>
+      <h1>Hemish<span> (heymisphere) </span></h1>
+      <nav>
+        <span><a href="/">Home</a></span>|
+        <span><a href="/posts">Posts</a></span>|
+        <span><a href="/tags">Post Tags</a></span>|
+        <span><a target="_blank" href="/posts/rss.xml">Posts Feed</a></span>
+      </nav>
+      <div class="search-container">
+	<input id="search" type="search" placeholder="🔎 Site Search">
+	<button>go</button>
+	<div class="search-results">
+          <div class="search-results__items"></div>
+	</div>
+      </div>
+    </header>
+    <hr/>
+    <main>
+      {% block content %}{% endblock %}
+    </main>
+    <hr>
+    <footer>
+	    My presence online: <br> <br>
+      <nav>
+	      <a target="_blank" href="/posts/rss.xml">
+		      <button>Feed <i class='fa fa-rss'></i></button>
+        <a target="_blank" href="https://linkedin.com/in/heymisphere">
+		<button>LinkedIn <i class='fab fa-linkedin'></i></button>
+      <a target="_blank" href="https://github.com/heymisphere">
+	      <button>Github <i class='fab fa-github'></i></button>
+      </a>
+      <a target="_blank" href="https://matrix.to/#/@hemish:matrix.org">
+	      <button>matrix <i class='fa fa-matrix-org'></i></button>
+      </a>
+      <a target=_blank" href="https://telegram.me/heymisphere">
+	      <button>Telegram <i class='fab fa-telegram'></i></button>
+      </a>
+      <a target="_blank" href="xmpp://hemish@jabbers.one">
+	      <button>xmpp/jabber <i class='far fa-comment-dots'></i></button>
+      </a>
+      <a target="_blank" href="mailto:hemish04082005@gmail.com">
+	      <button>email <i class='fa fa-envelope'></i></button></a>
+      <a target="_blank" href="https://instagram.com/heymisphere">
+        <button>Instagram <i class='fab fa-instagram'></i></button>
+      </a>
+      <a target="_blank" href="https://open.spotify.com/user/q96e23cp4bimqcczlj9e6gj90/playlists">
+	      <button>Spotify <i class='fab fa-spotify'></i></button>
+      </a>
+      <a target="_blank" href="https://discord.com/users/751021835537088533">
+	      <button>Discord <i class='fab fa-discord'></i></button>
+      </a>
+      <a target="_blank" href="https://l10n.gnome.org/users/hemish/">
+	      <button>l10n.gnome.org <i class='fab fa-gnome'></i></button>
+      </a>
+      </nav><br><hr><br>
+      <nav>
+	      <a target="_blank" href="https://bugswriter.com"><button>
+			      <img src="https://bugswriter.com/favicon.ico" height=30 width=30 alt="Special thanks to Bugswriter"></button></a>
+	      <a target='_blank' href='https://en.wikipedia.org/wiki/India'><button><img src='https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg' width=30 height=30 alt='India'></a></button>
+		      <a target='_blank' href="https://en.wikipedia.org/"><button><img src='https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg' width=30 height=30 alt='Wikipedia'></button></a>
+		<a target='_blank' href='https://apps.gnome.org/'><button><img src='https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg' width=30 height=30 alt='GNOME Apps'></button></a>
+<a target='_blank' href='https://hyprland.org'><button><img src='https://styles.redditmedia.com/t5_6sciw0/styles/communityIcon_h3cvittvupi91.png?width=256&s=a89b8e62bc319df287e24875ff779c352402013b' width=30 height=30 alt='Hyprland'></button></a>
+<a target='_blank' href='https://archlinux.org/'><button><img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg' width=30 height=30 alt='Arch Linux'></button></a>
+<a target='_blank' href='https://kernel.org/'><button><img src='https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png' width=30 height=30 alt='Linux'></button></a>
+	      <br> <br>
+      <span>
+        &copy Copyright 2022 <a href="/">Hemish</a>. All wrongs reserved.
+      </span>
+    </footer>
+  </body>
+  <script src="/elasticlunr.min.js"></script>
+  <script src="/search_index.en.js"></script>
+  <script src="/js/search.js"></script>
+</html>
