@@ -6,7 +6,7 @@ languages = ['hindi', 'hinglish']
 +++
 
 A little bit of background, how I came up with this poem:
-We had a poem in Grade 9 in school (it was in क्षितिज NCERT book), titled "कैदी और कोकिला" which had a primary lines "क्या गाती हो" and "कोकिल बोलो तो". It was hightly metaphorical poem, and was written by Makhanlal Chaturvedi during his stay in jail during India's Independence moment. Our teacher Meena Ahuja ma'am asked us to write one such poem in that style, so I came up with this poem titled "ए मक्षिका! क्या भिनभिनाती हो?". Is it weird, or is it funny, or does it have some deep message (I seriously did not intend to give a deep message, but if you are a hardcore poet, maybe let me know about the deep meaning.)
+We had a poem in Grade 9 in school (it was in क्षितिज NCERT book), titled "कैदी और कोकिला" which (you can read it [here](https://www.hindipyala.com/kaidi-aur-kokila)) had  primary lines "क्या गाती हो" and "कोकिल बोलो तो". It was hightly metaphorical poem, and was written by Makhanlal Chaturvedi during his stay in jail during India's Independence moment. Our teacher Meena Anand ma'am asked us to write one such poem in that style, so I came up with this poem titled "ए मक्षिका! क्या भिनभिनाती हो?". Is it weird, or is it funny, or does it have some deep message (I seriously did not intend to give a deep message, but if you are a hardcore poet, maybe let me know about the deep meaning.)
 <!-- more -->
 
 Here it is:
