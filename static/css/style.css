@@ -166,9 +166,12 @@ p:has(> img){
         display: none;
     }
 }
-#caption{
+.caption{
     visibility: hidden;
 }
-#hackergotchi:hover #caption{
+.hackergotchi:hover .caption{
     visibility: visible;
+}
+.image-container {
+	text-align: center;
 }
