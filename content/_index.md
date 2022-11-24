@@ -19,7 +19,7 @@ All my contributions to software, translations, and Wikipedia are listed at [con
 
 I also like to learn languages, be it human or computer ones. The languages I know both to read and write are [English], [Hindi], [Punjabi] ([gurmukhi]). I am learning [Spanish]. One of language I know little and can only speak is [Saraiki] (Multani dialect).
 
-<!--I [write poems] in English, Hindi and Punjabi. (who knows I would start writing in Spanish too)-->
+I [write poems] in English, Hindi and Punjabi. (who knows I would start writing in Spanish too)
 
 I write about anything mentioned above in [my posts]. My posts are categorised into different [tags]. If you use some application or website for feeds, you can load my feed into that to never miss my posts. If you do not want to see all posts and want to follow a particular topic only, that is possible, separate RSS feeds are also listed at [tags]. Alternatively, you can also subscribe to [newsletter] to get an email whenever I make a new post.
 
