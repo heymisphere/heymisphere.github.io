@@ -6,7 +6,8 @@ default_language = "en"
 feed_filename = "rss.xml"
 build_search_index = true
 taxonomies = [
-    {name = "tags", feed = true, paginate_by = 5}
+    {name = "tags", feed = true, paginate_by = 5},
+    {name = "languages", feed = true, paginate_by = 5}
 ]
 
 [markdown]

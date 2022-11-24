@@ -1,6 +1,6 @@
 +++
 title = "Hamara Plymouth Theme"
-date = 2022-09-16
+date = 2022-11-14
 [taxonomies]
 tags=['linux', 'arch']
 +++
