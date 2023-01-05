@@ -21,7 +21,7 @@ I also like to learn languages, be it human or computer ones. The languages I kn
 
 I [write poems] in English, Hindi and Punjabi. (who knows I would start writing in Spanish too)
 
-I write about anything mentioned above in [my posts]. My posts are categorised into different [tags]. If you use some application or website for feeds, you can load my feed into that to never miss my posts. If you do not want to see all posts and want to follow a particular topic only, that is possible, separate RSS feeds are also listed at [tags]. Alternatively, you can also subscribe to [newsletter] to get an email whenever I make a new post.
+I write about anything mentioned above in [my posts]. My posts are categorised into different [tags]. If you use some application or website for feeds, you can load my feed into that to never miss my posts. If you do not want to see all posts and want to follow a particular topic only, that is possible, separate Atom (RSSv1) feeds are also listed at [tags]. Alternatively, you can use [feeds.sh] to subscribe to these feeds to get an email whenever I make a new post.
 
 [he/him]: https://pronouns.org/he-him
 [Haryana]: https://en.wikipedia.org/wiki/Haryana
@@ -41,3 +41,4 @@ I write about anything mentioned above in [my posts]. My posts are categorised i
 [gurmukhi]: https://en.wikipedia.org/wiki/Gurmukhi
 [Saraiki]: https://en.wikipedia.org/wiki/Saraiki_language
 [tags]: /tags
+[feeds.sh]: https://feeds.sh

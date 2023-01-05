@@ -6,7 +6,7 @@
 <h1 class="title">#{{ term.name }}</h1>
 <div id="blog-list">
   <blockquote>
-    Here is the list of posts tagged with #{{ term.name }}. If you want to just follow this topic and not all my posts, here is a separate <a href="{{ term.permalink }}rss.xml">RSS feed</a> for #{{ term.name }}.
+    Here is the list of posts tagged with #{{ term.name }}. If you want to just follow this topic and not all my posts, here is a separate <a href="{{ term.permalink }}atom.xml">Atom feed</a> for #{{ term.name }}.
   {% for page in paginator.pages %}
   <div id="blog-summary"> 
     <h3><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h3>

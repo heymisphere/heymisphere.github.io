@@ -6,12 +6,12 @@
 <h1 class="title">Tags</h1>
 <div id="blog-list">
   <blockquote>
-    Here is the list of tags of my posts below. If you want to just follow some particular topics and not all my posts, individual RSS feeds are linked along with the tag.
+    Here is the list of tags of my posts below. If you want to just follow some particular topics and not all my posts, individual Atom (RSSv1) feeds are linked along with the tag.
   </blockquote>
   {% if terms %}
       <div id="blog-summary">
       {% for term in terms %}
-          <a href="{{ term.permalink }}">#{{ term.name }}</a> ({{ term.pages | length }}) <a href="{{ term.permalink }}rss.xml" target="_blank"> RSS</a> &nbsp;&nbsp;
+          <a href="{{ term.permalink }}">#{{ term.name }}</a> ({{ term.pages | length }}) <a href="{{ term.permalink }}rss.xml" target="_blank"> Atom</a> &nbsp;&nbsp;
       {% endfor %}
       </div>
     {% endif %}
