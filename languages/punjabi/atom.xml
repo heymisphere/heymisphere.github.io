@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Hemish - punjabi</title>
+	<link href="https://hemish.tk/languages/punjabi/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://hemish.tk"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-11-24T00:00:00+00:00</updated>
+	<id>https://hemish.tk/languages/punjabi/atom.xml</id>
+	<entry xml:lang="en">
+		<title>ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹਾਂ</title>
+		<published>2022-11-24T00:00:00+00:00</published>
+		<updated>2022-11-24T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://hemish.tk/poems/jaanna-chahunda-haan/" type="text/html"/>
+		<id>https://hemish.tk/poems/jaanna-chahunda-haan/</id>
+		<content type="html">&lt;pre&gt;
+ਮੈਂ ਖਾਸ ਹਾਂ,
+ਇਹ ਮੈਂ ਜਾਣਦਾ ਹਾਂ,
+ਤੇ ਏਸੇ ਖਾਸ ਖੁਦ ਨੂੰ ,
+ਪਛਾਣਨਾ ਚਾਹੁੰਦਾ ਹਾਂ।&lt;&#x2F;pre&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;pre&gt;
+ਕੀ ਹਾਂ ਮੈਂ ,
+ਕੀ ਮੈਨੂੰ ਪਸੰਦ ਹੈ,
+ਕੀ ਕਰਨਾ ਹੈ ਮੈਂ,
+ਤੇ ਮੇਰਾ ਕੀ ਮਕਸਦ ਹੈ?
+
+ਕੌਣ ਹਾਂ ਮੈਂ,
+ਇਹ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹਾਂ,
+ਤਾਰਿਆਂ ਦੇ ਹਨੇਰੇ &#x27;ਚ,
+ਇਸ ਬਾਰੇ ਸੋਚਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।
+
+ਕੀ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ,
+ਕੀ ਪਾਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ,
+ਕੀ ਖੋਹਣਾ ਚਾਹੁੰਦਾ ਹਾਂ,
+ਤੇ ਕਿਹੋ ਜਿਹੀ ਜ਼ਿੰਦਗੀ ਜਿਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।
+&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+</feed>
